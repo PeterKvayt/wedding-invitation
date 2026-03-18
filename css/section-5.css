@@ -1,0 +1,43 @@
+#section-5 .header {
+    padding-bottom: 20px;
+}
+
+.columns-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.list {
+    padding: 0;
+}
+
+.list li {
+    padding: 10px 0;
+}
+
+.list-item--header {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.list-item--header span {
+    padding-right: 10px;
+}
+
+.list-item--body {
+    padding-top: 5px;
+    text-align: justify;
+}
+
+.img-container {
+    height: 200px;
+    margin: 0 10px;
+}
+
+.img-container img {
+    height:100%;
+}

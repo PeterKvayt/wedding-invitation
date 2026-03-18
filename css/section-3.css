@@ -1,0 +1,12 @@
+#count-down-section {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+}
+
+.count-down-item {
+    margin: 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
